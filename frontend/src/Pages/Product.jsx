@@ -21,6 +21,7 @@ const Product = () => {
                     <img src={Product1Back} alt="" className="product-submain-imgs h-full w-1/4" />
                     <img src={Message} alt="" className="product-submain-imgs h-full w-1/4" />
                     <img src={FoodInVessel} alt="" className="product-submain-imgs h-full w-1/4" />
+                    <h1>helo</h1>
                 </div>
             </div>
             <div className="about-product-container h-4/6 w-2/6 flex flex-col justify-center items-center gap-4 box-border">
